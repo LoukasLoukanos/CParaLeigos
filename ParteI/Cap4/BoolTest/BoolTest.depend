@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656459608 source:d:\meus arquivos\carreiras profissionais\carreira cientista da computação - phd\Áreas\programação\technologies\c++\livro c++ para leigos\repositório_pessoal_c_para_leigos_github\partei\cap4\booltest\main.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+
