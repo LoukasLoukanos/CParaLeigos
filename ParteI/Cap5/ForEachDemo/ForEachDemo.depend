@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1383510694 source:d:\meus arquivos\carreiras profissionais\carreira cientista da computação - phd\Áreas\programação\technologies\c++\livro c++ para leigos\repositório_pessoal_c_para_leigos_github\partei\cap5\foreachdemo\main.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+
